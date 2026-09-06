@@ -11,3 +11,7 @@ _static/
 _templates/
 _toc.yml
 docBin/
+
+# Desloppify artifacts
+.desloppify/
+scorecard.png
